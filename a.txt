@@ -1,10 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is 26E9-0CD5
-
- Directory of C:\Users\atulkums\Desktop\MyGitProject
-
-09/10/2017  03:55 PM    <DIR>          .
-09/10/2017  03:55 PM    <DIR>          ..
-09/10/2017  03:55 PM                 0 a.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  379,568,660,480 bytes free
+Atul singh is right user to change or modify into project.
